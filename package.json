@@ -1,0 +1,24 @@
+{
+  "name": "bower-registry",
+  "version": "1.0.0",
+  "description": "Delphic bower registry",
+  "main": "index.js",
+  "dependencies": {
+    "private-bower": "^1.1.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/private-bower --config config.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delphic-digital/bower-registry.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delphic-digital/bower-registry/issues"
+  },
+  "homepage": "https://github.com/delphic-digital/bower-registry#readme"
+}
