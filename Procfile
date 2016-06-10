@@ -1,1 +1,1 @@
-web: ./node_modules/.bin/private-bower --config config.json
+web: ./node_modules/.bin/private-bower

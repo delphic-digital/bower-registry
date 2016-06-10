@@ -9,7 +9,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "./node_modules/.bin/private-bower --config config.json"
+    "start": "./node_modules/.bin/private-bower"
   },
   "repository": {
     "type": "git",
